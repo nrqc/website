@@ -24,6 +24,15 @@
         text-align: center;
         font-size: 20px;
     }
+
+    @media (max-width: 768px)
+    {
+        .logo
+        {
+            width: 80%;
+        }
+    }
+
 </style>
 
 <div class="container">
